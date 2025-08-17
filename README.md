@@ -1,6 +1,5 @@
 # DSA-Array
 package array;
-
 public class basicinsertprint {
     public static void main(String[] args) {
         int array [] = {52,120,12,147,154,145,12,1};
